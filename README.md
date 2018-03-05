@@ -2,9 +2,9 @@
 
 Assumptions made:
 * all inputs are valid expressions
-* The syntax of input is always <Operator> <Expression> <Expression>
-* <Expressions> can be positive or negative values
-* <Operator> can only be + or -
+* The syntax of input is always `<Operator> <Expression> <Expression>`
+* `<Expressions>` can be positive or negative values
+* `<Operator>` can only be + or -
 * User has Node.js installed
 
 Instructions to run program:
